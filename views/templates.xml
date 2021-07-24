@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="jowe_test_app" name="Junari Odoo Web Utils Test App">
+        <t t-call="website.layout">
+            <div class="oe_structure" />
+            <div contenteditable="false" class="o_not_editable" >
+                <div class="container py-4" >
+                    <div class='jowe_test_app' />
+                    <div class="jowebutils_loading_indicator" style="display:none;" />
+                </div>
+            </div>
+            <div class="oe_structure" />
+        </t>
+    </template>
+
+</odoo>

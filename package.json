@@ -1,0 +1,20 @@
+{
+  "name": "jowe_test",
+  "version": "1.0.0",
+  "description": "Junari Odoo Web Utils Test App",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junariltd/jowe_test.git"
+  },
+  "author": "Junari Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junariltd/jowe_test/issues"
+  },
+  "homepage": "https://github.com/junariltd/jowe_test#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
